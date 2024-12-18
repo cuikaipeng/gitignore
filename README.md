@@ -1,0 +1,1 @@
+A config for gitignore
